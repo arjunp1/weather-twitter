@@ -1,0 +1,293 @@
+.weathercontainer {
+    width: 300px;
+    display: inline-block;
+    background-color: #FFF;
+    margin: auto;
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
+
+.app-title {
+    width: 300px;
+    height: 50px;
+    border-radius: 10px 10px 0 0;
+}
+
+.app-title p {
+    text-align: center;
+    padding: 15px;
+    margin: 0 auto;
+    font-size: 1.2em;
+    color: #293251;
+}
+
+.weather-container {
+    width: 300px;
+    height: 280px;
+    background-color: #F4F9FF;
+}
+
+.weather-icon {
+    width: 300px;
+    height: 128px;
+}
+
+.weather-icon img {
+    display: block;
+    margin: 0 auto;
+}
+
+.temperature-value {
+    width: 300px;
+    height: 60px;
+}
+
+.temperature-value p {
+    padding: 0;
+    margin: 0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.temperature-value span {
+    color: #293251;
+    font-size: 0.5em;
+}
+
+.temperature-description p {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.location p {
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.day-value {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.weather-icon2 {
+    width: 300px;
+    height: 128px;
+}
+
+.weather-icon2 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.temperature-value2 {
+    width: 300px;
+    height: 60px;
+}
+
+.temperature-value2 p {
+    padding: 0;
+    margin: 0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.temperature-value2 span {
+    color: #293251;
+    font-size: 0.5em;
+}
+
+.temperature-description2 p {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.location2 p {
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.day-value2 {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.weather-icon3 {
+    width: 300px;
+    height: 128px;
+}
+
+.weather-icon3 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.temperature-value3 {
+    width: 300px;
+    height: 60px;
+}
+
+.temperature-value3 p {
+    padding: 0;
+    margin: 0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.temperature-value3 span {
+    color: #293251;
+    font-size: 0.5em;
+}
+
+.temperature-description3 p {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.location3 p {
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.day-value3 {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.weather-icon4 {
+    width: 300px;
+    height: 128px;
+}
+
+.weather-icon4 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.temperature-value4 {
+    width: 300px;
+    height: 60px;
+}
+
+.temperature-value4 p {
+    padding: 0;
+    margin: 0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.temperature-value4 span {
+    color: #293251;
+    font-size: 0.5em;
+}
+
+.temperature-description4 p {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.location4 p {
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.day-value4 {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.weather-icon5 {
+    width: 300px;
+    height: 128px;
+}
+
+.weather-icon5 img {
+    display: block;
+    margin: 0 auto;
+}
+
+.temperature-value5 {
+    width: 300px;
+    height: 60px;
+}
+
+.temperature-value5 p {
+    padding: 0;
+    margin: 0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.temperature-value5 span {
+    color: #293251;
+    font-size: 0.5em;
+}
+
+.temperature-description5 p {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.location5 p {
+    margin: 0;
+    padding: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.day-value5 {
+    padding: 8px;
+    margin: 0;
+    color: #293251;
+    text-align: center;
+    font-size: 1.2em;
+}
